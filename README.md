@@ -16,16 +16,16 @@ Main_Project_File
     - (whatever node modules you pull in through NPM)
   - server
     - public
-  - assets
-    - scripts
-      (your personal client scripts)
-    - styles
-      (your personal style sheets)
-    - vendors
-      (your vendor files)
-  - views
-    - (your view files)
-  - app.js (server-side app.js obviously)
+    - assets
+      - scripts
+        (your personal client scripts)
+      - styles
+        (your personal style sheets)
+      - vendors
+        (your vendor files)
+    - views
+      - (your view files)
+    - app.js (server-side app.js obviously)
 
 Your server side app.js should serve back:
 A personal site about you. This can be the resume you created for your application if you wish, however there are some additional upgrades we would like to see. Keep in mind this is not your ‘Personal Project’ that we will start working on in Week 13 (Week 7 in-class). This is just a demonstration that you understand how all the technology works and communicates with each other. 
