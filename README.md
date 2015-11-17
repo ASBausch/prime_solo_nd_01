@@ -37,7 +37,7 @@ Finally, before you get started, you will need to create a light Scope of Work d
 Once you are complete,  Copy what you have written for your scope into a Markdown file and include that in your project as well. Make sure that you not only check in the final project Heroku, but also that you check in your project to GitHub.
 
 ##Hard Mode
-Take what you know about Grunt from the MEAN stack lecture and rework it to move Bootstrap and jQuery into your Vendors file when Grunt is run. 
+Take what you know about Grunt from the lecture and rework it to move Bootstrap and jQuery into your Vendors file when Grunt is run. 
 
 ##Pro Mode
 Animate the reveal of some information with the use of jQuery in some manner.
