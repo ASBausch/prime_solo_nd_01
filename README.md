@@ -1,6 +1,6 @@
 # ALL THE THINGS Assignment!
 
-Lets recap the past 4 weeks!
+Lets recap!
 
 In this assignment, you will use:
 Heroku
