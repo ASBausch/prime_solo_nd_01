@@ -1,0 +1,39 @@
+{
+  "amanda":[
+    {
+    "mood": "Happy",
+    "playlist" :
+    [
+      "They Might Be Giants", "Elvis Presley", "Trip Shakespere"
+    ]
+    },
+    {
+    "mood": "Making Art",
+     "playlist":
+     [
+        "Muse", "Imagine Dragons", "Dragonforce"
+      ]
+    },
+    {
+      "mood": "Over Caffinated",
+      "playlist":
+      [
+        "DJDalude", "Donny Clarck", "DJMarc Van Lust"
+      ]
+    },
+    {
+      "mood": "Serene",
+      "playlist":
+      [
+        "Leonard Cohen", "The Weepies", "Iron and Wine"
+      ]
+    },
+    {
+      "mood": "Drunk",
+      "playlist":
+      [
+        "Shakira", "Dada", "The Pussycat Dolls"
+      ]
+    }
+  ]
+}

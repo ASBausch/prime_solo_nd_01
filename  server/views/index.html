@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <title>Mental State By Playlist</title>
+  <link rel='stylesheet' href='/styles/style.css'>
+</head>
+<body>
+
+  <header><h1>Mental State By Playlist</h1>
+  </header>
+<script id='leftButton' type='text/x-handlebars-template'>
+  <div>
+    <button type="button" name="leftButton" class='leftBut'>{{currentMood}}</button>
+  </div>
+</script>
+<script id='rightButton' type='text/x-handlebars-template'>
+  <div>
+    <button type="button" name="rightButton" class='rightBtn'>{{currentMood}}</button>
+  </div>
+</script>
+  <section>
+    <script id='currentMood' type='text/x-handlebars-template'>
+      <div class='moods'>
+          <div class='mood'>
+            <h2>{{mood}}</h2>
+          </div>
+        </div>
+
+      {{#each playlist}}
+      <div class='playlist'>
+        <div class='artist'>
+          <h3>{{playlist[i]}}</h3>
+        </div>
+      </div>
+    </script>
+  </section>
+
+
+
+
+
+
+
+
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.4/handlebars.min.js'></script>
+<script src='/scripts/app.js'></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "name": "prime_solo_nd_01",
+  "version": "1.0.0",
+  "description": "Node Solo Challenge",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASBausch/prime_solo_nd_01.git"
+  },
+  "author": "Amanda Bausch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ASBausch/prime_solo_nd_01/issues"
+  },
+  "homepage": "https://github.com/ASBausch/prime_solo_nd_01#readme"
+}
