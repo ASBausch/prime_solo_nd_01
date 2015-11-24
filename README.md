@@ -3,10 +3,11 @@
 Lets recap!
 
 In this assignment, you will use:
-Heroku
-Node / Express
-jQuery 
-HTML / CSS / Javascript
+- Heroku
+- Node / Express
+- jQuery 
+- HTML / CSS / JavaScript
+- Handlebars (optional)
 
 First, set up a new project as we have been doing the past couple days. Start with the `npm init` process, add a `.gitignore`. Make sure to set the `start` alias as Heroku will need that as the entry point. Then set up your file structure:
 
