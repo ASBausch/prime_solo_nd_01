@@ -31,6 +31,8 @@ $(document).ready(function() {
       currentMood = randomNumber(0, manyMoods);
 
       drawMood(currentMood);
+      drawLeftButton();
+      drawRightButton();
     });
   }
 
