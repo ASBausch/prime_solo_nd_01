@@ -30,7 +30,7 @@ Your server side app.js should serve back:
 
 A personal site about you. This can be the resume you created for your application if you wish, however there are some additional upgrades we would like to see. Keep in mind this is not your ‘Personal Project’ that we will start working on in Week 13 (Week 7 in-class). This is just a demonstration that you understand how all the technology works and communicates with each other. 
 
-The personal site should use both jQuery and optionally use Handlebars. This means that you will need to bring those technologies in. However you can do this with NPM (`npm install jquery` for example). This will bring those technologies into your node_modules folder. You will need to move / copy those technologies into your vendors file, or serve that file/folder individually.
+The personal site should use both jQuery and optionally use Handlebars. This means that you will need to bring those technologies in. However you can do this with NPM (`npm install jquery --save` for example). This will bring those technologies into your node_modules folder. You will need to move / copy those technologies into your vendors file, or serve that file/folder individually.
 
 There will not be a ton of constraints around what your Web experience needs to be, just that it it something about you, that it uses the technologies listed.
 
